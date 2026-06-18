@@ -13,6 +13,7 @@
 
 ---
 
+
 ## About
 
 Full stack developer with a focus on building production-grade web applications. I independently reached the national finals of Smart India Hackathon 2025 — competing against 10,000+ teams — with a platform I built solo from the ground up.
