@@ -1,5 +1,3 @@
-<div align="center">
-
 # Piyush Agrawal
 
 **Full Stack Developer** · Mechanical Engineering @ MANIT Bhopal (NIT) · 8.32 CGPA
@@ -9,7 +7,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrpiyush67642005@email.com)
 
-</div>
 
 ---
 
@@ -82,8 +79,5 @@ Full stack app to track job applications across stages — Applied, Interviewing
 
 ---
 
-<div align="center">
 
 *I build things. Then I understand them. Then I build better things.*
-
-</div>
