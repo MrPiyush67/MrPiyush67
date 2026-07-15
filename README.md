@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=60&lines=Hey%2C+I'm+Piyush+Agrawal+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%7C+AI+%2B+Blockchain;SIH+2025+National+Finalist+(Solo%2C+10%2C000%2B+teams);Building+production-scale+systems%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=60&lines=Hey%2C+I'm+Piyush+Agrawal+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%7C+AI+%2B+Blockchain;SIH+2025+Finalist+(Solo%2C+10%2C000%2B+teams)" alt="Typing SVG" />
 </p>
 
 <p align="center">
