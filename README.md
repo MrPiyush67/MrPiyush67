@@ -88,10 +88,10 @@ A platform enabling citizens to report civic issues and track resolution, connec
       <td align="center"><b>🔴 Hard</b></td>
     </tr>
     <tr>
-      <td align="center"><!--RANKING-->655670<!--/RANKING--></td>
-      <td align="center"><!--TOTAL-->247<!--/TOTAL--></td>
-      <td align="center"><!--EASY-->88<!--/EASY--></td>
-      <td align="center"><!--MEDIUM-->142<!--/MEDIUM--></td>
+      <td align="center"><!--RANKING-->642801<!--/RANKING--></td>
+      <td align="center"><!--TOTAL-->249<!--/TOTAL--></td>
+      <td align="center"><!--EASY-->89<!--/EASY--></td>
+      <td align="center"><!--MEDIUM-->143<!--/MEDIUM--></td>
       <td align="center"><!--HARD-->17<!--/HARD--></td>
     </tr>
   </table>
